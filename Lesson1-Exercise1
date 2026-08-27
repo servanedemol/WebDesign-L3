@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Tables and Forms</title>  
+    <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+<table border="1">
+        <tr>
+            <td>Data Row 1 Column A</td>
+            <td>Data Row 1 Column B</td>
+        </tr>
+        <tr>
+            <td>Data Row 2 Column A</td>
+            <td>Data Row 2 Column B</td>
+        </tr>
+        <tr>
+             <td>Data Row 3 Column A</td>
+            <td>Data Row 3 Column B</td>
+        </tr>
+  </table>
+</body>
+</html>
